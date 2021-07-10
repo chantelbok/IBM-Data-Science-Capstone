@@ -1,0 +1,276 @@
+,Location,Postcode,Latitude,Longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue
+0,Mouille Point,8005,-33.900049999999965,18.40527000000003,0,Restaurant,Bar,Mediterranean Restaurant
+1,Granger Bay,8005,-33.89985999999993,18.412460000000067,0,Restaurant,African Restaurant,Pizza Place
+2,Norfolk Park,7945,-34.0781950545986,18.46082175911398,0,Ice Cream Shop,Food Court,Restaurant
+3,Bakoven,8005,-33.95906999999994,18.38265000000007,0,African Restaurant,Breakfast Spot,Fast Food Restaurant
+4,Triangle Farm,7530,-33.907959999999946,18.64829000000003,0,Restaurant,American Restaurant,Fish & Chips Shop
+5,Midhurst Estate,7806,-34.01990056821808,18.4505498359125,0,Restaurant,Ice Cream Shop,Juice Bar
+6,Belgravia Estate,7764,-33.9876956542955,18.49486045948637,0,Restaurant,Sushi Restaurant,Fast Food Restaurant
+7,Bergvliet,7864,-34.044599999999946,18.45201000000003,0,Restaurant,Pizza Place,Thai Restaurant
+8,Die Wingerd,7130,-34.06764999999996,18.83196000000004,0,Restaurant,Convenience Store,Portuguese Restaurant
+9,Philadelphia,7304,-33.66639999999995,18.577060000000078,0,African Restaurant,Café,Italian Restaurant
+10,Kirstenbosch,7708,-33.98685176089086,18.43845766618941,0,African Restaurant,Café,Restaurant
+11,Higgovale,8001,-33.933329999999955,18.400000000000038,0,African Restaurant,Restaurant,Pizza Place
+12,Dido Valley,7975,-34.17113999999998,18.42626000000007,0,Restaurant,Steakhouse,Café
+13,Southern Cross,7806,-33.90508999999997,18.419820000000072,0,Restaurant,Seafood Restaurant,Italian Restaurant
+14,O'Kennedyville,7550,-33.871429999999975,18.642160000000047,1,Restaurant,Café,Deli / Bodega
+15,Ocean View,7975,-34.14353999999997,18.351820000000032,1,Ice Cream Shop,Asian Restaurant,Seafood Restaurant
+16,Norton Square,7441,-33.82054979397421,18.49200639525677,1,Pizza Place,Portuguese Restaurant,Breakfast Spot
+17,North Shore Estate,7806,-34.04497101172977,18.34868133643663,1,Café,Seafood Restaurant,Pizza Place
+18,Okavango Park,7560,-33.86080999999996,18.70044000000007,1,Bakery,Steakhouse,Fish & Chips Shop
+19,Park 2000,7560,-33.86809999999997,18.53893000000005,1,Burger Joint,Fish & Chips Shop,Fast Food Restaurant
+20,Oranjezicht,8001,-33.93874999999997,18.414150000000063,1,Italian Restaurant,Burger Joint,Pizza Place
+21,Parklands,7441,-33.81360999999998,18.506850000000043,1,Food Truck,Sushi Restaurant,Snack Place
+22,Parklands North,7441,-33.81925997502136,18.50351975974523,1,Café,Fast Food Restaurant,Pizza Place
+23,Parkview,7785,-33.81234154689543,18.4927986486068,1,Fried Chicken Joint,Sushi Restaurant,Burger Joint
+24,Parow,7499,-33.90876999999995,18.58597000000003,1,Diner,Seafood Restaurant,Pizza Place
+25,Peers Hill Estate,7975,-33.909324428194964,18.40229495221445,1,Café,Steakhouse,Sushi Restaurant
+26,Pinegrove,7130,-33.86834885309062,18.70890230319779,1,Burger Joint,Fish & Chips Shop,Café
+27,Plaas Firlands,7130,-33.97089088261464,18.49059956473763,1,Asian Restaurant,Italian Restaurant,Japanese Restaurant
+28,Old Oak,7530,-33.872107419586584,18.6396105635168,1,Café,Breakfast Spot,Italian Restaurant
+29,North Gate Estate,7500,-33.91552999999993,18.485990000000072,1,African Restaurant,Bakery,Food Truck
+30,Morningstar,7550,-33.82744999999994,18.655610000000024,1,American Restaurant,Bakery,Steakhouse
+31,N1 City,7460,-33.89277999999996,18.560520000000054,1,Fast Food Restaurant,Café,Seafood Restaurant
+32,Kenilworth,7708,-33.99599999999998,18.468740000000025,1,Café,Gastropub,Italian Restaurant
+33,Kenilworth Park,7708,-33.99115962737249,18.4738624910771,1,Indian Restaurant,Pizza Place,Burger Joint
+34,Kenridge Estate,7550,-33.862524970370586,18.63362505037041,1,Restaurant,Café,Chinese Restaurant
+35,Klein Dreyersdal,7945,-34.060869999999966,18.45165000000003,1,Café,Bakery,Sushi Restaurant
+36,Klein Wassenaar,7945,-34.082485181739386,18.45243537555217,1,Indian Restaurant,Fish & Chips Shop,Café
+37,Klipdam,7580,-33.931419999999946,18.68455000000006,1,Convenience Store,Portuguese Restaurant,Pizza Place
+38,Kommetjie,7975,-34.14027999999996,18.32931000000008,1,Pizza Place,Café,Deli / Bodega
+39,Kreupelbosch,7945,-34.03356729175779,18.44256254634757,1,Restaurant,Bakery,Gas Station
+40,La Paloma,7441,-34.114226413810265,18.838766466306065,1,Italian Restaurant,Restaurant,Burger Joint
+41,Lakeside,7945,-34.08600999999993,18.45742000000007,1,Café,Restaurant,Thai Restaurant
+42,Langeberg Village,7550,-33.83316999999994,18.66942000000006,1,Pizza Place,Ice Cream Shop,Steakhouse
+43,Lincoln Estate,7764,-33.91432995158915,18.390200081463064,1,Café,Pizza Place,Italian Restaurant
+44,Lynfrae Estate,7708,-33.97617282523009,18.47792233955493,1,Café,Ice Cream Shop,Burger Joint
+45,Marina Moorings,7945,-33.91010343917151,18.41895618653085,1,Café,Burger Joint,Seafood Restaurant
+46,Martinville,7130,-34.08453999999995,18.85368000000005,1,Café,Pizza Place,Indian Restaurant
+47,Melkbosstrand,7441,-33.72738999999996,18.445760000000064,1,Seafood Restaurant,Pizza Place,Café
+48,Metro,7405,-33.896349999999984,18.482500000000076,1,Gastropub,Food Court,Burrito Place
+49,Monte Vista,7460,-33.88068999999996,18.557770000000065,1,Pizza Place,Asian Restaurant,American Restaurant
+50,Plattekloof Glen,7460,-33.88805999999994,18.558430000000044,1,Food Court,Gas Station,Indian Restaurant
+51,North Gate,7500,-33.88530999999995,18.57929000000007,1,Deli / Bodega,Burger Joint,African Restaurant
+52,Plumstead,7800,-34.02229999999997,18.467160000000035,1,Pizza Place,Seafood Restaurant,Steakhouse
+53,Rondebosch,7701,-33.96387999999996,18.476180000000056,1,Restaurant,Diner,Deli / Bodega
+54,Race Course Park,7441,-33.83776999999998,18.64495000000005,1,Pizza Place,Café,Asian Restaurant
+55,The Crest,7550,-33.81925999999993,18.672370000000058,1,Café,Chinese Restaurant,Pizza Place
+56,Three Anchor Bay,8005,-33.90840999999995,18.39721000000003,1,Chinese Restaurant,Ice Cream Shop,Pizza Place
+57,Tussendal,7945,-34.05455048399157,18.453890628695166,1,Bakery,Café,Chinese Restaurant
+58,Tyger Waterfront,7530,-33.876529999999946,18.629350000000045,1,Seafood Restaurant,Pizza Place,Breakfast Spot
+59,University Estate,7925,-33.937959999999975,18.45261000000005,1,Restaurant,Café,Deli / Bodega
+60,Vanriebeeckshof,7530,-33.85541999999998,18.610820000000047,1,Restaurant,Steakhouse,Pizza Place
+61,Villa Palma,7580,-33.85407389468105,18.5380063244865,1,Pizza Place,Fish & Chips Shop,African Restaurant
+62,Vita Nova Estate,7945,-34.066365561875074,18.434212974191777,1,Gas Station,French Restaurant,Sushi Restaurant
+63,Vredendal North,8161,-31.6620305268163,18.5068044508321,1,Fried Chicken Joint,Steakhouse,Breakfast Spot
+64,The Conifers,7100,-33.98361999999997,18.69381000000004,1,Fried Chicken Joint,Fish & Chips Shop,Convenience Store
+65,Waterfront,8001,-33.906969999999944,18.41775000000007,1,Café,Restaurant,Seafood Restaurant
+66,Welgelegen,7500,-33.86991999999998,18.568230000000028,1,African Restaurant,Seafood Restaurant,Indian Restaurant
+67,Welgemoed,7530,-33.87130999999994,18.616870000000063,1,Pizza Place,Café,Restaurant
+68,Wellway Park East,7550,-33.84294999999997,18.678990000000056,1,Chinese Restaurant,Café,Asian Restaurant
+69,West Beach,7441,-33.808479999999975,18.475700000000074,1,Restaurant,Burger Joint,Deli / Bodega
+70,West Coast Village,7433,-33.80470999999994,18.48443000000003,1,Café,Restaurant,Breakfast Spot
+71,Wheatfield Estate,7780,-33.98424906128767,18.51039360235195,1,Bakery,Mexican Restaurant,African Restaurant
+72,White City,7750,-34.06571543742415,18.462391635694512,1,Café,Pizza Place,Snack Place
+73,Wildwoods,7785,-34.04646999999994,18.36186000000004,1,Café,Mexican Restaurant,Restaurant
+74,Yorkshire Estate,7780,-33.99962999999997,18.513340000000028,1,Bakery,Indian Restaurant,Pizza Place
+75,Waves Edge,7441,-33.79536815382841,18.462441898479387,1,Indian Restaurant,Restaurant,Ice Cream Shop
+76,Pollsmoor,7945,-34.06850999999995,18.432250000000067,1,Italian Restaurant,Café,Restaurant
+77,Tara,7550,-33.83600524028677,18.671706901590213,1,Pizza Place,Sushi Restaurant,Juice Bar
+78,Table View,7441,-33.82362999999998,18.484880000000032,1,Deli / Bodega,Thai Restaurant,Indian Restaurant
+79,Salt River,7925,-33.92922999999996,18.463450000000023,1,Café,Deli / Bodega,Vegetarian / Vegan Restaurant
+80,San Marina,7945,-33.90199999999993,18.42177000000004,1,Restaurant,Pizza Place,Italian Restaurant
+81,Sanddrift,7441,-33.880919999999946,18.50908000000004,1,Café,Sushi Restaurant,Ice Cream Shop
+82,Sanlamhof,7530,-33.90405999999996,18.645520000000037,1,Café,Pizza Place,Seafood Restaurant
+83,Santana Village,7100,-34.04397506861719,18.481107075742397,1,Bagel Shop,Burger Joint,African Restaurant
+84,Selbourne,7530,-33.93784722716549,18.45460483742016,1,Italian Restaurant,Café,Deli / Bodega
+85,Signal Hill,8001,-33.91766999999993,18.402630000000045,1,Pizza Place,Italian Restaurant,Middle Eastern Restaurant
+86,Sillery,7806,-34.027139999999974,18.43413000000004,1,Restaurant,Café,Bakery
+87,Somerset Mall,7130,-34.08188999999993,18.82372000000004,1,Café,Bakery,Pizza Place
+88,Tamboerskloof,8001,-33.92948999999993,18.404030000000034,1,Café,Steakhouse,Gastropub
+89,Somerset Park,7130,-34.09725999999995,18.85405000000003,1,Vegetarian / Vegan Restaurant,Italian Restaurant,Bistro
+90,Somerset West Business Park,7130,-34.10143999999997,18.855050000000062,1,Asian Restaurant,Italian Restaurant,Seafood Restaurant
+91,South End,7140,-34.01460128295236,18.479744357463325,1,Ice Cream Shop,Pizza Place,Restaurant
+92,St James,7945,-34.11798999999996,18.458290000000037,1,African Restaurant,Italian Restaurant,Tapas Restaurant
+93,Station Park,7750,-33.93834999999996,18.46816000000007,1,Café,African Restaurant,Sushi Restaurant
+94,Stonehurst Estate,7945,-34.081842319379966,18.441391651448416,1,Pizza Place,Café,Italian Restaurant
+95,Stuart's Hill,7130,-34.07510999999994,18.849910000000023,1,Bakery,African Restaurant,Bistro
+96,Sunnybrae,7700,-33.969879558692874,18.475670733486822,1,Café,Pizza Place,Japanese Restaurant
+97,Sunset Beach,7441,-33.85504999999995,18.494970000000023,1,Pizza Place,Gas Station,Steakhouse
+98,Table Bay Harbour,8001,-33.91053999999997,18.42465000000004,1,Café,Italian Restaurant,African Restaurant
+99,Somerset Ridge,7130,-34.07333999999997,18.82709000000005,1,Café,Breakfast Spot,Fast Food Restaurant
+100,Hurley Estate,7700,-33.94958897404338,18.483677331643293,1,Café,Restaurant,Sushi Restaurant
+101,Zoo Park,7570,-33.84063999999995,18.700560000000053,1,Steakhouse,Burger Joint,Café
+102,Big Bay,7441,-33.78983999999997,18.458350000000053,1,Café,Burger Joint,Restaurant
+103,Gardens,8001,-33.93337999999994,18.408000000000072,1,Café,African Restaurant,Burger Joint
+104,Fresnaye,8005,-33.92270999999994,18.387890000000027,1,Café,Italian Restaurant,Steakhouse
+105,Bloubergrant,7441,-33.81510999999995,18.47776000000005,1,Pizza Place,Indian Restaurant,Café
+106,Fifth Avenue Village,7764,-33.9118649595938,18.394315093008014,1,Café,Burger Joint,Asian Restaurant
+107,Fernwood Estate,7700,-34.103536121255416,18.87200152736723,1,Restaurant,Pizza Place,Tea Room
+108,Fairfield Estate,7500,-33.89954999999998,18.59360000000004,1,Gas Station,Italian Restaurant,Fish & Chips Shop
+109,Everglen,7550,-33.856739999999945,18.648150000000044,1,Italian Restaurant,Bistro,Café
+110,Briza Estate,7130,-33.821349625663764,18.48398432590622,1,Steakhouse,Café,Greek Restaurant
+111,Brookside Village,7130,-34.09267501275531,18.862190144969336,1,Pizza Place,Fish & Chips Shop,Fried Chicken Joint
+112,Camps Bay,8005,-33.949509999999975,18.379020000000025,1,Restaurant,Café,Italian Restaurant
+113,Cape Mail,8003,-33.92259999999993,18.55042000000003,1,Diner,Fast Food Restaurant,Steakhouse
+114,Bellair Estate,7530,-33.93986817785314,18.426358149256973,1,Indian Restaurant,Bakery,Bistro
+115,Eastlake,7945,-34.09626496448008,18.47923010051214,1,Restaurant,Pizza Place,Tea Room
+116,Doordrift Village,7806,-34.0188551038986,18.461320987279898,1,BBQ Joint,Tea Room,Italian Restaurant
+117,Die Akkers,7530,-33.88407995639559,18.66602890866266,1,Café,Italian Restaurant,Breakfast Spot
+118,De Tuin,7560,-33.85657999999995,18.692170000000036,1,Restaurant,Dessert Shop,Burger Joint
+119,Century City,7441,-33.893159999999966,18.51451000000003,1,Café,Burger Joint,Sushi Restaurant
+120,Century On Lake,7441,-33.88943999999998,18.505940000000063,1,Café,Fast Food Restaurant,Italian Restaurant
+121,De Kuilen,7580,-33.92698999999993,18.677810000000022,1,Fried Chicken Joint,Bakery,Fish & Chips Shop
+122,Danena,7550,-33.87095999999997,18.640190000000075,1,Restaurant,Pizza Place,Bagel Shop
+123,Century Place,7441,-33.884598417899376,18.52038403469756,1,Restaurant,Snack Place,Sandwich Place
+124,Crawford,7770,-33.974989999999934,18.50523000000004,1,Indian Restaurant,Pizza Place,Café
+125,Hout Bay,7806,-34.040959999999984,18.350230000000067,1,Fish & Chips Shop,Café,Restaurant
+126,Constantia Meadows,7800,-34.01408647090145,18.46212840315382,1,Bakery,Pizza Place,African Restaurant
+127,Capegate,7562,-33.85387999999995,18.69604000000004,1,Café,Fast Food Restaurant,Bakery
+128,Glen Lilly,7500,-33.94798726498971,18.7006034958486,1,Fast Food Restaurant,Ice Cream Shop,Pizza Place
+129,Constantia Neck,7806,-34.01197999999994,18.40519000000006,1,Tapas Restaurant,Seafood Restaurant,Restaurant
+130,Groote Schuur Hospital,7925,-33.94097999999997,18.46145000000007,1,Café,Restaurant,Fast Food Restaurant
+131,Harbour Island,7140,-34.14888999999994,18.85796000000005,1,Burger Joint,Fish & Chips Shop,Restaurant
+132,Haasendal,7580,-33.906284322102714,18.70120818549492,1,Diner,Bakery,Bistro
+133,Glosderry,7702,-33.98554887088984,18.486364961345068,1,Fast Food Restaurant,Café,Burger Joint
+134,Groote Schuur,7925,-33.93968088007411,18.463579139294588,1,Café,Fast Food Restaurant,Pizza Place
+135,Greenpoint,7784,-33.91066999999998,18.40757000000008,1,Café,Italian Restaurant,Breakfast Spot
+136,Atlantic Strand,7441,-34.12596999999994,18.83425000000005,1,Fish & Chips Shop,Fast Food Restaurant,Portuguese Restaurant
+137,Hazeldene,7750,-33.960794968977936,18.47391509379908,1,Pizza Place,Café,Chinese Restaurant
+138,Audas Estate,7130,-34.08425999999997,18.84731000000005,1,Greek Restaurant,Bistro,Restaurant
+139,Aurora,7550,-33.83371999999997,18.629920000000027,1,Café,Restaurant,Pizza Place
+140,Hardwick Estate,7700,-33.969763693606474,18.471435404981104,1,Café,Gastropub,Sandwich Place
+141,Athlone,7760,-33.966249999999945,18.50609000000003,1,Pizza Place,Indian Restaurant,Fried Chicken Joint
+142,Ascot Village,7780,-33.85370999999998,18.51140000000004,1,Pizza Place,Indian Restaurant,Ice Cream Shop
+143,Heathfield,7945,-34.04697999999996,18.465550000000064,1,Pizza Place,Burrito Place,Asian Restaurant
+144,Annandale,7580,-33.913932789293085,18.68432202729935,1,Restaurant,Pizza Place,Breakfast Spot
+145,Hiddingh Estate,7700,-33.93481844142663,18.41694483471508,1,Café,Restaurant,Juice Bar
+146,Baronetcy Estate,7500,-33.86080999999996,18.573010000000068,1,Seafood Restaurant,Italian Restaurant,Burger Joint
+147,Heyns Park,7785,-33.82417999999996,18.49105000000003,1,Café,Juice Bar,Fast Food Restaurant
+148,Athlone Industria,7764,-34.09966091923969,18.843820481519845,1,Bakery,Sushi Restaurant,Snack Place
+149,Area Al,7785,-33.863009999999974,18.519890000000032,1,Fish & Chips Shop,Bakery,Café
+150,Bantry Bay,8005,-33.92746999999997,18.38020000000006,1,Greek Restaurant,Thai Restaurant,Ice Cream Shop
+151,Simon's Town,7975,-34.193389999999965,18.43471000000005,2,Café,African Restaurant,Restaurant
+152,Sir Lowry Road,7130,-33.92729526526149,18.431184698305117,2,Café,Deli / Bodega,Restaurant
+153,Cedarvale,7100,-33.88264999999996,18.63541000000004,2,Café,Steakhouse,Diner
+154,Scarborough,7975,-34.19833999999997,18.37602000000004,2,Café,French Restaurant,Seafood Restaurant
+155,Casablanca,7140,-33.91924999999998,18.47022000000004,2,Café,Fish & Chips Shop,African Restaurant
+156,Scott Estate,7806,-34.04141999999996,18.359740000000045,2,Café,American Restaurant,Sandwich Place
+157,Wingate Heights,7975,-33.814166728171,18.488932709233826,2,Café,Restaurant,Portuguese Restaurant
+158,Weskus Village,7433,-34.09761723593447,18.380432251749745,2,Café,Ice Cream Shop,Gastropub
+159,Central,8001,-34.13735781120257,18.42965323232787,2,Café,Seafood Restaurant,Pizza Place
+160,Claremont,7708,-33.983499999999935,18.469730000000027,2,Café,Italian Restaurant,Asian Restaurant
+161,Connaught Estate,7490,-34.00153974250429,18.47591031749673,2,Café,Seafood Restaurant,Pizza Place
+162,Woodbridge Island,7441,-33.885599999999954,18.48728000000005,2,Tapas Restaurant,Bar,Café
+163,Silver Tree Estate,7945,-34.07983112259636,18.433337367147036,2,Café,Italian Restaurant,African Restaurant
+164,Schotsche Kloof,8001,-33.920099999999934,18.41348000000005,2,Café,Restaurant,African Restaurant
+165,Victoria Park,7130,-34.091519999999946,18.83128000000005,2,Café,Bakery,Pizza Place
+166,Sorrento,7500,-33.89958995575998,18.585975104284472,2,Fish & Chips Shop,Café,African Restaurant
+167,Beach Estate,7806,-34.03137999999996,18.35048000000006,2,Café,African Restaurant,Deli / Bodega
+168,Villa Bianca,7530,-33.93966999999998,18.414770000000036,2,Café,Italian Restaurant,Restaurant
+169,Upper Wynberg,7800,-34.00730999999996,18.46914000000004,2,Café,Fried Chicken Joint,Italian Restaurant
+170,Upper Woodstock,7925,-33.929089999999974,18.447740000000067,2,Café,Seafood Restaurant,Restaurant
+171,Tyger Valley,7530,-33.871339999999975,18.633240000000058,2,Café,Seafood Restaurant,African Restaurant
+172,Tyger Falls,7530,-33.87478999999996,18.631750000000068,2,Café,Restaurant,Burger Joint
+173,Bellrail,7530,-33.90563999999995,18.635780000000068,2,Café,Indian Restaurant,Fast Food Restaurant
+174,Bellville,7530,-33.90021999999993,18.62847000000005,2,Café,Burger Joint,Fast Food Restaurant
+175,Bellville South,7530,-33.91837999999996,18.638370000000062,2,Fried Chicken Joint,Café,Convenience Store
+176,Thornton,7460,-33.922549999999944,18.53899000000007,2,Snack Place,Café,African Restaurant
+177,Berg en Dal,7806,-34.036539999999945,18.360600000000037,2,Thai Restaurant,Café,African Restaurant
+178,Bergzicht,7460,-34.109519999999975,18.824340000000063,2,Café,Restaurant,Ice Cream Shop
+179,The Boulders,7975,-34.197949999999935,18.44924000000003,2,Café,Restaurant,Seafood Restaurant
+180,Rontree Estate,8005,-33.965484724196166,18.378810145375745,2,Café,Food Truck,Food Court
+181,Blouberg Sands,7441,-33.80294999999995,18.478400000000025,2,Café,Asian Restaurant,Steakhouse
+182,Vredenberg,7530,-33.87605999999994,18.66769000000005,2,Café,Restaurant,Portuguese Restaurant
+183,Avondale Gardens,7800,-34.03579999999994,18.46972000000005,2,Bakery,Café,Breakfast Spot
+184,Bloubergstrand,7436,-33.80260999999996,18.46246000000008,2,Café,Restaurant,Seafood Restaurant
+185,Bosbell Estate,7530,-33.896259999999984,18.626640000000062,2,Breakfast Spot,Seafood Restaurant,Café
+186,Sunnydale,7975,-34.12559999999996,18.38928000000004,2,Café,Fast Food Restaurant,Snack Place
+187,Bridgewater,7130,-34.08910999999995,18.85313000000008,2,Café,Pizza Place,Restaurant
+188,Strand,7139,-34.123539999999934,18.833470000000037,2,Café,African Restaurant,Burger Joint
+189,Cape Town International Airport,7525,-33.967619999999954,18.592120000000023,2,Café,Fast Food Restaurant,Burger Joint
+190,Sonkring,7570,-33.89298999999994,18.689340000000072,2,Café,Chinese Restaurant,Fish & Chips Shop
+191,Kaapzicht,7500,-33.88578999999993,18.56566000000004,2,Café,Bakery,Fish & Chips Shop
+192,Albowville,7405,-33.91908999999998,18.42198000000008,2,Café,Sushi Restaurant,African Restaurant
+193,Paardeneiland,7405,-33.91637999999995,18.47107000000005,2,Café,Portuguese Restaurant,Bistro
+194,Montrose Park,7785,-33.94129954374014,18.411497765104148,2,Café,Bakery,African Restaurant
+195,Oude Molen Village,7405,-33.94319999999993,18.490180000000063,2,Café,African Restaurant,Steakhouse
+196,Green Point 2,8005,-33.90097999999995,18.39888000000008,2,Café,Steakhouse,Ice Cream Shop
+197,Elwyn Park,7764,-33.976444384972844,18.51961548066318,2,Portuguese Restaurant,French Restaurant,Café
+198,Ferndale,7560,-33.88125999999994,18.677520000000072,2,Café,Fast Food Restaurant,Gas Station
+199,Oakridge,7806,-34.038975209039684,18.46002435593412,2,Café,Pizza Place,Bakery
+200,Flamingo Square,7441,-33.830299999999966,18.50667000000004,2,Café,BBQ Joint,Fried Chicken Joint
+201,Marina Estate,7945,-33.927821767681195,18.38082352337432,2,Café,Deli / Bodega,Restaurant
+202,Fountain Mews,7490,-33.878172457904846,18.629891332430397,2,Café,Burger Joint,Asian Restaurant
+203,Paardevlei,7130,-34.08818999999994,18.83049000000005,2,Café,African Restaurant,Fried Chicken Joint
+204,Riviera,7100,-34.11498387133129,18.842639375143825,2,Café,African Restaurant,Sandwich Place
+205,Newlands,7700,-33.97402999999997,18.45587000000006,2,Café,Restaurant,Bakery
+206,Gordon's Bay,7140,-34.155599999999936,18.876780000000053,2,Café,Pizza Place,African Restaurant
+207,Ndabeni,7405,-33.92740999999995,18.49225000000007,2,Café,Restaurant,Steakhouse
+208,Mutualpark,7451,-33.92420999999996,18.50764000000004,2,Café,Fast Food Restaurant,Middle Eastern Restaurant
+209,Muizenberg,7945,-34.106559999999945,18.47159000000005,2,Café,Pizza Place,Ice Cream Shop
+210,Mowbray,7700,-33.948189999999954,18.478710000000035,2,Café,Food Truck,Food Court
+211,Zonnebloem,7925,-33.93235999999996,18.42951000000005,2,Café,Sushi Restaurant,Food Truck
+212,Maynardville,7800,-34.00730999999996,18.463350000000048,2,Café,Deli / Bodega,Bar
+213,Melton Village,7100,-33.99836756510492,18.7214370282118,2,Breakfast Spot,Fish & Chips Shop,Café
+214,Nirvana Estate,7806,-34.024368544642606,18.44449222319281,2,Café,Restaurant,Indian Restaurant
+215,Panorama,7500,-33.87922999999995,18.576630000000023,2,Café,Steakhouse,Grocery Store
+216,Glencairn,7975,-34.16382999999996,18.43106000000006,2,Café,Restaurant,Pizza Place
+217,Durbanville,7550,-33.83249999999998,18.646990000000077,2,Café,Ice Cream Shop,Mexican Restaurant
+218,Kalk Bay,7975,-34.12644999999998,18.44930000000005,2,Café,Seafood Restaurant,Restaurant
+219,Ridgeworth Estate,7530,-33.875399685516015,18.641264576844684,2,Café,Gastropub,Italian Restaurant
+220,Richmond Estate,7460,-33.90148999999997,18.565860000000043,2,Sushi Restaurant,Fish & Chips Shop,Café
+221,Rhodes Gift,7707,-33.950118671665976,18.46677356642958,2,African Restaurant,Café,BBQ Joint
+222,Helderview,7130,-34.09280999999993,18.841940000000022,2,Café,BBQ Joint,Bakery
+223,Portland Park,7560,-33.882709999999975,18.63989000000004,2,Café,Burger Joint,Asian Restaurant
+224,De Tijger,7500,-33.88957999999997,18.594430000000045,2,Café,Juice Bar,African Restaurant
+225,Pinetree Village,7460,-33.9399149566609,18.429090058630837,2,Italian Restaurant,Café,Salad Place
+226,Kloofnek,8001,-33.92991883826454,18.40917895509811,2,Café,Deli / Bodega,French Restaurant
+227,Khayelitsha Mall,7792,-34.04735999999997,18.672060000000045,2,Café,BBQ Joint,Fried Chicken Joint
+228,Pinelands,7405,-33.93525999999997,18.50692000000004,2,Café,Deli / Bodega,Breakfast Spot
+229,Harfield Village,7708,-33.9921462189303,18.4725284198536,2,Café,Sushi Restaurant,Thai Restaurant
+230,Kine Park,7560,-33.87199999999996,18.69631000000004,2,Tea Room,Burger Joint,Café
+231,Pekalmy Estate,7945,-34.046835625817735,18.447648827023325,2,Café,African Restaurant,Portuguese Restaurant
+232,De Waterkant,8001,-33.91441999999995,18.419790000000035,2,Café,Breakfast Spot,Restaurant
+233,Avonwood,7490,-33.92467999999997,18.578900000000036,3,Deli / Bodega,Burger Joint,Fast Food Restaurant
+234,Amandaglen,7550,-33.85761999999994,18.66389000000004,3,Vegetarian / Vegan Restaurant,Food Truck,Steakhouse
+235,Lentegeur,7785,-34.03145999999998,18.61606000000006,3,Fast Food Restaurant,Restaurant,Food Court
+236,Killarney Gardens,7441,-33.82708999999994,18.53445000000005,3,Deli / Bodega,Fast Food Restaurant,Café
+237,Grassy Park,7888,-34.04712999999998,18.500820000000036,3,Fast Food Restaurant,Pizza Place,African Restaurant
+238,Goodwood Park,7460,-33.908592131504754,18.5478273872518,3,Fast Food Restaurant,Pizza Place,Diner
+239,Windsor Park,7570,-33.845489999999984,18.705470000000048,3,Fast Food Restaurant,BBQ Joint,African Restaurant
+240,Kensington,7405,-33.91406999999998,18.50464000000005,3,Fried Chicken Joint,Seafood Restaurant,Fast Food Restaurant
+241,Westgate Mall,7785,-34.04136999999997,18.586520000000064,3,Fast Food Restaurant,Pizza Place,African Restaurant
+242,Arauna,7560,-33.87366999999995,18.686120000000077,3,Fish & Chips Shop,Fast Food Restaurant,Deli / Bodega
+243,Wetton Park,7780,-34.00063305420645,18.502845763626716,3,African Restaurant,BBQ Joint,Fast Food Restaurant
+244,Maitland,7404,-33.92286999999993,18.486910000000023,3,Bakery,Fast Food Restaurant,Restaurant
+245,Walmer Estate,7925,-33.93652999999995,18.446270000000027,3,Fast Food Restaurant,Café,African Restaurant
+246,Rosebank,7700,-33.95465999999993,18.47186000000005,3,Fast Food Restaurant,Café,Restaurant
+247,Nomzamo,7140,-34.11098999999996,18.86028000000005,3,Gas Station,Fast Food Restaurant,Café
+248,Gleemoor,7764,-33.96485999999993,18.512550000000036,3,Fast Food Restaurant,Pizza Place,Malay Restaurant
+249,Rylands Estate,7764,-33.97099999999995,18.52908000000002,3,Indian Restaurant,Fast Food Restaurant,Restaurant
+250,Salberau,7490,-33.92752999999993,18.56788000000006,3,Fish & Chips Shop,Fast Food Restaurant,African Restaurant
+251,Clareinch,7740,-34.0074111050077,18.477146014628147,3,Gastropub,Ice Cream Shop,Indian Restaurant
+252,De Bron,7530,-33.90310999999997,18.62250000000006,3,Fried Chicken Joint,Café,Fast Food Restaurant
+253,Pineview,7570,-33.90874272911129,18.40587158775304,3,Wings Joint,Fast Food Restaurant,Food Court
+254,Serengeti,7530,-33.87833740775781,18.642575247670663,3,Pizza Place,Sushi Restaurant,Fast Food Restaurant
+255,De Tijgerpark,7500,-33.88549343212504,18.67235484359328,3,Burger Joint,Fast Food Restaurant,Café
+256,Penlyn Estate,7780,-33.98252999999994,18.521070000000066,3,Bakery,Indian Restaurant,Fast Food Restaurant
+257,Silvertown,7764,-33.963259999999934,18.52594000000005,3,American Restaurant,Seafood Restaurant,Fast Food Restaurant
+258,Parow West,7500,-33.90799705343167,18.591230503821457,3,Fast Food Restaurant,Ice Cream Shop,Portuguese Restaurant
+259,Parow East,7500,-33.90482999999995,18.602700000000027,3,Fast Food Restaurant,Burger Joint,Restaurant
+260,Milkwood Park,7975,-33.89448999999996,18.547650000000036,3,Portuguese Restaurant,Fast Food Restaurant,Restaurant
+261,Capricorn Beach,7945,-34.03606956077014,18.75092980860478,3,Pizza Place,Fast Food Restaurant,Café
+262,Springbokpark,7560,-33.88063999999997,18.683470000000057,3,Fast Food Restaurant,Café,Pizza Place
+263,Ottery,7800,-34.01724999999993,18.51416000000006,3,Fast Food Restaurant,Deli / Bodega,Portuguese Restaurant
+264,Steenberg Industria,7945,-33.937089961924165,18.607235089227203,3,Fast Food Restaurant,Fried Chicken Joint,Pizza Place
+265,Bosonia,7580,-33.92714999999998,18.68214000000006,3,Fast Food Restaurant,Indian Restaurant,Food Court
+266,Norwood Estate,7490,-33.88107188521965,18.49427621635931,3,Fast Food Restaurant,Café,Pizza Place
+267,Sunnyside,7764,-33.970009999999945,18.51249000000007,3,Bakery,Burger Joint,Fish & Chips Shop
+268,Flintdale Estate,7800,-34.03939032198094,18.487803054404797,3,Fast Food Restaurant,Pizza Place,Indian Restaurant
+269,New Macassar Village,7130,-34.05053296200485,18.75344008120493,3,Burger Joint,Fast Food Restaurant,Gas Station
+270,Nerissa Estate,7780,-33.99082999999996,18.509450000000072,3,Fast Food Restaurant,Bakery,African Restaurant
+271,Garlandale Estate,7780,-33.961677545965195,18.50125726578368,3,Fast Food Restaurant,Café,Diner
+272,Bellair Winelands Estate,7130,-33.895850240604176,18.67206691844514,3,Ice Cream Shop,Fish & Chips Shop,Fast Food Restaurant
+273,Eastlake Island,7945,-34.09195683512796,18.47728280169247,3,Fast Food Restaurant,Café,Chinese Restaurant
+274,Richwood,7441,-33.832299999999975,18.542820000000063,3,Gas Station,Fast Food Restaurant,Mexican Restaurant
